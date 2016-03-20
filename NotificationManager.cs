@@ -70,4 +70,8 @@ public class NotificationManager1 : MonoBehaviour {
 		//Call redundancy removal function in case for any left over from previous scenes.
 		RemoveRedundancies ();
 	}
+    public void test()
+    {
+        string test = " test";
+    }
 }
